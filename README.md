@@ -36,8 +36,6 @@ Study and use Wireshark to monitor HTTP traffic and extract login credentials fr
 
 ## 📸 Screenshots
 
-> Add these images in a folder called `images/` in your repo and link them.
-
 - **Login Form on Target Site**  
   ![login-form](images/login-form.png)
 
